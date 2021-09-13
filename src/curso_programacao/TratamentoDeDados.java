@@ -2,7 +2,7 @@ package curso_programacao;
 
 import java.util.Locale;
 
-public class Exe1 {
+public class TratamentoDeDados {
 
 	public static void main(String[] args) {
 		String product1 = "Computador";
